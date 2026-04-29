@@ -1,4 +1,4 @@
-import { NeatGradient } from "./neat.js";
+import { NeatGradient } from "https://lilywdesigns-cmd.github.io/neat_chroma/neat.js";
 
 const gradient = new NeatGradient({
   ref: document.getElementById("neat-gradient"),
